@@ -1,0 +1,4 @@
+# Podmanはignoreファイルを以下の名前で作っておけば、自動的に読み込んでくれる
+# 1. .containerignore
+# 2. .dockerignore
+**/.DS_Store
